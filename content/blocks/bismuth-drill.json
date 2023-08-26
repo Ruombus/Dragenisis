@@ -4,7 +4,7 @@
 	"type": "Drill",
 	"size": 3,
 	"tier": 3,
-	"drillTime": 190
+	"drillTime": 190,
 	"requirements": [
 		{ "item": "bismuth", "amount": 80 },
 		{ "item": "silicon", "amount": 40 },
