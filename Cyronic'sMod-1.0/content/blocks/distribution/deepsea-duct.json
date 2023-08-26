@@ -1,8 +1,0 @@
-type: Duct
-name: "DeepSea Duct",
-requirements: [
-  bismuth/1
-]
-category: distribution
-speed: 7.5
-acceptsItems: true
