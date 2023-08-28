@@ -1,0 +1,8 @@
+{
+	"type": "material",
+	"name": "Bismuth",
+	"description": "A common, but sturdy resource.",
+	"hardness": 2,
+	"cost": 2.0,
+	"color": "dcb5b4"
+}
