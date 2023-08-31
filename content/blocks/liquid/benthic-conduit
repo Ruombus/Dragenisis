@@ -1,0 +1,7 @@
+{
+  type: Conduit
+  leaks: false
+  requirements: [
+    ashstone/1
+    ]
+  }
