@@ -1,8 +1,8 @@
 {
 	"name": "Molten Bismuth",
-	"description": "The frightful state of this liquid is menacing.",
+	"description": "The note said no contact with water.",
 	"temperature": 0.9,
     "viscosity": 0.8,
     "effect": "melting",
-    "color": "a4a2bd"
+    "color": "9D6F6D"
 }
