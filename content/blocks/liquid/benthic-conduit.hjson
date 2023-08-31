@@ -3,6 +3,6 @@
     "name": "Benthic Conduit"
     "leaks": false
     "requirements": [
-      "ashstone"/1
+      { "item": "ashstone", "amount": 1 }
       ]
 }
