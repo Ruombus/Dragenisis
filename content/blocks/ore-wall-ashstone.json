@@ -1,5 +1,5 @@
 {
 	"type": "OreBlock",
 	"itemDrop": "ashstone",
-  "wallOre": true
+  	"wallOre": true
 }
