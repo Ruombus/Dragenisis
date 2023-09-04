@@ -1,6 +1,6 @@
 {
-    "type": "material",
-	  "name": "Bauxite",
-	  "description": "A crystalline mix of bauxite and ashstone, fused through heat and friction.",
-	  "color": "B95946"
+    	"type": "material",
+	"name": "Bauxite",
+	"description": "A crystalline mix of bauxite and ashstone, fused through heat and friction.",
+	"color": "B95946"
 }
