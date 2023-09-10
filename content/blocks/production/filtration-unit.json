@@ -1,0 +1,25 @@
+{
+  "hasItems": true,
+  "hasLiquids": true,
+  "hasPower": true,
+  "itemCapacity": 20,
+  "liquidCapacity": 200,
+
+  "requirements": [
+    {"item": "bismuth", "amount": 80},
+    {"item": "ashstone", "amount": 55}
+  ],
+
+  "consumes": [
+    {"item": "bismuth", "amount": 2},
+    
+  ],
+  "outputItem" : [
+    {"item": "aluminum", "amount": 5},
+  ],
+  "outputLiquid":[
+    {"liquid": "mud", "amount": 20},
+  ],
+  "craftTime": 100,
+  "category": "crafting"
+}
