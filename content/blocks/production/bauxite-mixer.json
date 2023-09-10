@@ -1,4 +1,6 @@
 {
+  "name": "Bauxite Mixer",
+  "description": "Welds Bismuth and ashstone together to form impure Bauxite crystals",
   "hasItems": true,
   "hasLiquids": true,
   "hasPower": true,
@@ -7,12 +9,12 @@
 
   "requirements": [
     {"item": "bismuth", "amount": 35},
-    {"item": "ashstone", "amount": 50}
+    {"item": "ashstone", "amount": 50},
   ],
 
   "consumes": [
     {"item": "bismuth", "amount": 2},
-    {"item": "ashstone", "amount": 1}
+    {"item": "ashstone", "amount": 1},
   ],
   "outputItem" : {
     {"item": "bauxite", "amount": 5}
