@@ -2,7 +2,7 @@
 	"name": "Molten Bismuth",
 	"description": "The note said no contact with water.",
 	"temperature": 0.9,
-    "viscosity": 0.8,
-    "effect": "melting",
-    "color": "9D6F6D"
+  "viscosity": 0.5,
+  "effect": "melting",
+  "color": "9D6F6D"
 }
