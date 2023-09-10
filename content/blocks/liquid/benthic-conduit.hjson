@@ -1,8 +1,8 @@
 {
-    "type": "Conduit"
-    "name": "Benthic Conduit"
-    "leaks": false
-    "requirements": [
-      { "item": "ashstone", "amount": 1 }
-      ]
+  "type": "Conduit"
+  "name": "Benthic Conduit"
+  "leaks": false
+  "requirements": [
+    { "item": "ashstone", "amount": 1 }
+  ]
 }
