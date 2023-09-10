@@ -1,0 +1,8 @@
+{
+	"name": "Mud",
+	"description": "When water a soil mix... Need I say more?",
+	"temperature": 0.5,
+  "viscosity": 0.9,
+  "coolant": false,
+  "color": "665D5D"
+}
