@@ -1,0 +1,8 @@
+{
+  "name": "Dihydrogen Monoxide",
+  "description": "Hydrogen, but binded with oxygen molecules from the water. Its contained as a vapour, however.",
+  "temperature": 0.9,
+  "viscosity": 0.1,
+  "gas": true,
+  "gasColour": "80A9FF"
+}
