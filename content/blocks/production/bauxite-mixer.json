@@ -5,7 +5,8 @@
   "hasLiquids": true,
   "hasPower": true,
   "itemCapacity": 20,
-  "liquidCapacity": 200,
+  "seperateItemCapacity": true,
+  "destructible": true,
 
   "requirements": [
     {"item": "bismuth", "amount": 35},
