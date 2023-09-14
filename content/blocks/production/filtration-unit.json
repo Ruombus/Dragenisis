@@ -11,6 +11,7 @@
   "category": "crafting",
   "menu": "transform",
   "size": 2,
+  "breakable": true
   "requirements": [
     {"item": "bismuth", "amount": 80},
     {"item": "ashstone", "amount": 55},
