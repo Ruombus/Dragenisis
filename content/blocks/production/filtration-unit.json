@@ -6,22 +6,31 @@
   "hasPower": true,
   "itemCapacity": 20,
   "liquidCapacity": 200,
-
+  "type": "multicraft.MultiCrafter",
+  "craftEffect": "smeltsmoke",
+  "category": "crafting",
+  "menu": "transform",
+  "size": 2,
   "requirements": [
     {"item": "bismuth", "amount": 80},
     {"item": "ashstone", "amount": 55},
   ],
-
-  "consumes": [
-    {"item": "bismuth", "amount": 2},
-    
-  ],
-  "outputItem" : [
-    {"item": "aluminum", "amount": 5},
-  ],
-  "outputLiquid":[
-    {"liquid": "mud", "amount": 20},
-  ],
-  "craftTime": 100,
-  "category": "crafting"
-}
+  "recipes":{
+    "input":[
+      {"item": "bauxite", "amount": 2}
+    ],
+    "output":[
+      {"fluid": "mud", "amount": 20}
+    ],
+    "craftTime": 100,
+    "input":[
+      {"fluid": "mud", "amount": 2.5},
+      {"power": 3},
+    ],
+    "output":[
+      {"item": "ashstone", "amount": 2},
+      {"item": "bismuth", "amount": 3},
+    ],
+    "craftTime": 85,
+  }
+} 
