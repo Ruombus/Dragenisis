@@ -16,9 +16,9 @@
     {"item": "bismuth", "amount": 2},
     {"item": "ashstone", "amount": 1},
   ],
-  "outputItem" : {
+  "outputItem" :[
     {"item": "bauxite", "amount": 5}
-  },
+  ],
   "craftTime": 75,
   "category": "crafting"
 }
