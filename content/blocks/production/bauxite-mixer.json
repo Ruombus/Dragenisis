@@ -7,6 +7,7 @@
   "itemCapacity": 20,
   "seperateItemCapacity": true,
   "destructible": true,
+  "size": 2
 
   "requirements": [
     {"item": "bismuth", "amount": 35},
