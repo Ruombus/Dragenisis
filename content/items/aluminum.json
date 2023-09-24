@@ -1,0 +1,7 @@
+{
+  "type": "material",
+	"name": "Aluminum",
+	"description": "...Or Aluminium, whichever you call it.",
+	"color": "B76E79",
+  "cost": 0.9
+}
