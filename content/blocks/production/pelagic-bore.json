@@ -1,0 +1,10 @@
+{
+  "name": "Pelagic Bore",
+  "type": "BeamDrill",
+  "size": 2,
+  "range": 5,
+  "tier": 2,
+  "requirements":[
+    {"item": "bismuth", "amount": 18}
+  ]
+}
