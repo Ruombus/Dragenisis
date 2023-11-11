@@ -7,5 +7,6 @@
   "category": "distribution",
   "speed": 7.5,
   "acceptsItems": true
-  "placeableLiquid": true
+  "placeableLiquid": true,
+  "squareSprite": false
 }
