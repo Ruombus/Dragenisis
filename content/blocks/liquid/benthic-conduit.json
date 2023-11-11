@@ -4,5 +4,6 @@
   "leaks": false
   "requirements": [
     { "item": "ashstone", "amount": 1 }
-  ]
+  ],
+  "squareSprite": false
 }
