@@ -1,41 +1,45 @@
 {
-  "name": "Filtration Unit",
-  "description": "Breaks down the impurities within bauxite to form aluminum, creating fluid mud in the process. Can also reprocess the mud into ashstone.",
-  "hasItems": true,
-  "hasLiquids": true,
-  "hasPower": true,
-  "itemCapacity": 20,
-  "liquidCapacity": 200,
-  "type": "multicraft.MultiCrafter",
-  "craftEffect": "smeltsmoke",
-  "category": "crafting",
-  "menu": "transform",
-  "size": 2,
-  "breakable": true
-  
-  "requirements": [
-    {"item": "bismuth", "amount": 80},
-    {"item": "ashstone", "amount": 55},
-  ],
- 
-  "recipes": [
-    {
-      "input": "bauxite/2",
-      "output": {
-        "item": "aluminum/2",
-        "fluid": "mud/4.5",
-      },
-      "craftTime": 95.0
-    },
-    {
-      "input": "mud/2.5",
-      "output": {
-        "item": [
-          "ashstone/2"
-        ],
-        "power":2.3
-      },
-      "craftTime": 85.0
-    }
-  ]
-} 
+    "name": "Filtration Unit",
+    "description": "Breaks down the impurities within bauxite to form aluminum, creating fluid mud in the process. Can also reprocess the mud into ashstone.",
+    "hasItems": true,
+    "hasLiquids": true,
+    "hasPower": true,
+    "itemCapacity": 20,
+    "liquidCapacity": 200,
+    "type": "multicraft.MultiCrafter",
+    "craftEffect": "smeltsmoke",
+    "category": "crafting",
+    "menu": "transform",
+    "size": 2,
+    "breakable": "true",
+    "requirements": [
+        {
+            "item": "bismuth",
+            "amount": 80
+        },
+        {
+            "item": "ashstone",
+            "amount": 55
+        }
+    ],
+    "recipes": [
+        {
+            "input": "bauxite/2",
+            "output": {
+                "item": "aluminum/2",
+                "fluid": "mud/4.5"
+            },
+            "craftTime": 95
+        },
+        {
+            "input": "mud/2.5",
+            "power": 2.3,
+            "output": {
+                "item": [
+                    "ashstone/2"
+                ]
+            },
+            "craftTime": 85
+        }
+    ]
+}
