@@ -6,7 +6,7 @@
   ],
   "category": "distribution",
   "speed": 7.5,
-  "acceptsItems": true
+  "acceptsItems": true,
   "placeableLiquid": true,
   "squareSprite": false
 }
