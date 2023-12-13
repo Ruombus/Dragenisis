@@ -31,8 +31,7 @@
       "input": "mud/2.5",
       "output": {
         "item": [
-          "ashstone/2",
-          "bismuth/3"
+          "ashstone/2"
         ],
         "power":2.3
       },
@@ -40,30 +39,3 @@
     }
   ]
 } 
-
-
-
-
-
-
-"recipes": [
-  {
-    "input": "bauxite/2",
-    "output": {
-      "item": "aluminum/2" 
-      "fluid": "mud/4.5",
-    },
-    "craftTime": 95.0
-  },
-  {
-    "input": "mud/2.5",
-    "output": {
-      "item": [
-        "ashstone/2",
-        "bismuth/3"
-      ],
-      "power":2.3
-    },
-    "craftTime": 85.0
-  }
-]
