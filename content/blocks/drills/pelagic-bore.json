@@ -1,0 +1,11 @@
+{
+  "name": "Pelagic Bore",
+  "description": "Extracts ores from the walls of these aquatic depths.",
+  "type": "BeamDrill",
+  "size": 2,
+  "reqirements":[
+    {"item": "bismuth", "amount": 20}
+  ],
+  "tier": 2,
+  "category": "production"
+}
