@@ -1,5 +1,5 @@
 {
-	"type": "OreBlock",
-	"itemDrop": "ashstone",
-  	"wallOre": true
+	"type": "StaticWall",
+	"solid": true,
+	"itemDrop": "ashstone"
 }
