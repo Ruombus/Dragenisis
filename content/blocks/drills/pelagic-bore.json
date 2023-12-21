@@ -7,5 +7,6 @@
     {"item": "bismuth", "amount": 20}
   ],
   "tier": 2,
+  "range": 4
   "category": "production"
 }
