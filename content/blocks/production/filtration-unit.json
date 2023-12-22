@@ -12,12 +12,10 @@
   "menu": "transform",
   "size": 2,
   "breakable": "true",
-  "requirements": {
-    "items": [
-      "deep-seadustry-bismuth/65",
-      "deep-seadustry-ashstone/35"
-    ]
-  },
+  "requirements": [
+    {"item": "deep-seadustry-bismuth/65",}
+    {"item": "deep-seadustry-ashstone/35"}
+    ],
   "recipes": [
     {
       "input": "deep-seadustry-bauxite/2",
