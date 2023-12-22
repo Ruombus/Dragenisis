@@ -1,6 +1,8 @@
 {
-  "name": "Deep Seadustry",
+  "displayName": "Deep Seadustry",
+  "name": "deep-seadustry",
   "author": "Cyro",
+  "version": 1.0.2
   "description": "A simple mod. That will probably break around every corner",
   "minGameVersion":136,
   "dependencies": ["multi-crafter"]
