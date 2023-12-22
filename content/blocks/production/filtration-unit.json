@@ -23,7 +23,7 @@
       "input": "deep-seadustry-bauxite/2,",
       "output": {
         "item": "deep-seadustry-aluminum/2,",
-        "fluid": "deep-seadustry-mud/4.5"
+        "liquid": "deep-seadustry-mud/4.5"
       },
       "craftTime": 75
     },
