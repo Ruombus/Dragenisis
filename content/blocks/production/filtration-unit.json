@@ -1,46 +1,41 @@
-{
-    "name": "Filtration Unit",
-    "description": "Breaks down the impurities within bauxite to form aluminum, creating fluid mud in the process. Can also reprocess the mud into ashstone and bismuth.",
-    "hasItems": true,
-    "hasLiquids": true,
-    "hasPower": true,
-    "itemCapacity": 20,
-    "liquidCapacity": 200,
-    "type": "multicraft.MultiCrafter",
-    "craftEffect": "smeltsmoke",
-    "category": "crafting",
-    "menu": "transform",
-    "size": 2,
-    "breakable": "true",
-    "requirements": [
-        {
-            "item": "bismuth",
-            "amount": 80
-        },
-        {
-            "item": "ashstone",
-            "amount": 55
-        }
-    ],
-    "recipes": [
-        {
-            "input": "deep-seadustry-bauxite/2",
-            "output": {
-                "item": "deep-seadustry-aluminum/2",
-                "fluid": "deep-seadustry-mud/4.5"
-            },
-            "craftTime": 75
-        },
-        {
-            "input": "deep-seadustry-mud/2.5",
-            "power": 2.3,
-            "output": {
-                "item": [
-                    "ashstone/2",
-                    "bismuth/1" 
-                ],
-            },
-            "craftTime": 100
-        }
+ "name": "Filtration Unit",
+  "description": "Breaks down the impurities within bauxite to form aluminum, creating fluid mud in the process. Can also reprocess the mud into ashstone and bismuth.",
+  "hasItems": true,
+  "hasLiquids": true,
+  "hasPower": true,
+  "itemCapacity": 20,
+  "liquidCapacity": 200,
+  "type": "multicraft.MultiCrafter",
+  "craftEffect": "smeltsmoke",
+  "category": "crafting",
+  "menu": "transform",
+  "size": 2,
+  "breakable": "true",
+  "requirements": {
+    "items": [
+      "deep-seadustry-bismuth/65,",
+      "deep-seadustry-ashstone/35"
     ]
+  },
+  "recipes": [
+    {
+      "input": "deep-seadustry-bauxite/2,",
+      "output": {
+        "item": "deep-seadustry-aluminum/2,",
+        "fluid": "deep-seadustry-mud/4.5"
+      },
+      "craftTime": 75
+    },
+    {
+      "input": "deep-seadustry-mud/2.5,",
+      "power": 3,
+      "output": {
+        "item": [
+          "deep-seadustry-ashstone/2,",
+          "deep-seadustry-bismuth/1"
+        ]
+      },
+      "craftTime": 100
+    }
+  ]
 }
