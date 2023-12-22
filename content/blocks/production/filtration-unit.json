@@ -13,7 +13,7 @@
   "size": 2,
   "breakable": "true",
   "requirements": [
-    {"item": "deep-seadustry-bismuth/65",}
+    {"item": "deep-seadustry-bismuth/65"},
     {"item": "deep-seadustry-ashstone/35"}
     ],
   "recipes": [
