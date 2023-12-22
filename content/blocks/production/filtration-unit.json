@@ -24,22 +24,23 @@
     ],
     "recipes": [
         {
-            "input": "bauxite/2",
+            "input": "deep-seadustry-bauxite/2",
             "output": {
-                "item": "aluminum/2",
-                "fluid": "mud/4.5"
+                "item": "deep-seadustry-aluminum/2",
+                "fluid": "deep-seadustry-mud/4.5"
             },
-            "craftTime": 95
+            "craftTime": 75
         },
         {
-            "input": "mud/2.5",
+            "input": "deep-seadustry-mud/2.5",
             "power": 2.3,
             "output": {
                 "item": [
-                    "ashstone/2"
-                ]
+                    "ashstone/2",
+                    "bismuth/1" 
+                ],
             },
-            "craftTime": 85
+            "craftTime": 100
         }
     ]
 }
