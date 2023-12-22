@@ -1,6 +1,6 @@
 {
     "name": "Filtration Unit",
-    "description": "Breaks down the impurities within bauxite to form aluminum, creating fluid mud in the process. Can also reprocess the mud into ashstone.",
+    "description": "Breaks down the impurities within bauxite to form aluminum, creating fluid mud in the process. Can also reprocess the mud into ashstone and bismuth.",
     "hasItems": true,
     "hasLiquids": true,
     "hasPower": true,
