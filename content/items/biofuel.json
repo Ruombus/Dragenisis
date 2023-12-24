@@ -1,0 +1,7 @@
+{
+  "name": "Biofuel",
+  "discription": "The crystallised spores and fruit of the plants that grow like wildfire down here.",
+  "flammability": 0.9,
+	"color": "C8DA72",
+	"cost": 1.15
+}
