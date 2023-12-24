@@ -9,7 +9,7 @@
   "type": "multicraft.MultiCrafter",
   "craftEffect": "smeltsmoke",
   "category": "crafting",
-  "menu": "transform",
+  "menu": "Transform",
   "size": 2,
   "breakable": "true",
   "requirements": [
@@ -26,12 +26,11 @@
       "craftTime": 75
     },
     {
-      "input": "deep-seadustry-mud/2.5",
-      "power": 3,
+      "input": "deep-seadustry-mud/9",
+      "power": 3.25,
       "output": {
         "item": [
-          "deep-seadustry-ashstone/2",
-          "deep-seadustry-bismuth/1"
+          "deep-seadustry-ashstone/2","deep-seadustry-bismuth/1"
         ]
       },
       "craftTime": 100
