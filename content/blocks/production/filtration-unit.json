@@ -25,7 +25,9 @@
       "craftTime": 75
     },
     {
-      "input": "mud/9",
+      "input":[ 
+        {"liquid": "mud", "amount": 9}
+      ],
       "power": 3.25,
       "output": {
         "item": [
