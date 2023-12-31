@@ -13,18 +13,18 @@
   "size": 2,
   "breakable": "true",
   "requirements": [
-    {"deep-seadustry-bismuth": 65}, {"deep-seadustry-ashstone": 35}
+    {"bismuth": 65}, {"ashstone": 35}
     ],
     "recipes": [
     {
-      "input": [{"item": "deep-seadustry-bauxite", "amount": 2}],
-      "output": {"item": "deep-seadustry-aluminum", "amount": 2, "liquid": "deep-seadustry-mud", "liquidAmount": 4.5},
+      "input": [{"item": "bauxite", "amount": 2}],
+      "output": {"item": "aluminum", "amount": 2, "fluids": "mud/4.5"},
       "craftTime": 75
     },
     {
-      "input": [{"liquid": "deep-seadustry-mud", "amount": 9}],
+      "input": [{"fluids": "mud/9"}],
       "power": 3.25,
-      "output": {"item": [{"item": "deep-seadustry-ashstone", "amount": 2}, {"item": "deep-seadustry-bismuth", "amount": 1}]},
+      "output": {"item": [{"item": "ashstone", "amount": 2}, {"item": "bismuth", "amount": 1}]},
       "craftTime": 100
     }
   ]
