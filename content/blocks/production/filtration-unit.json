@@ -15,25 +15,16 @@
   "requirements": [
     {"bismuth": 65}, {"ashstone": 35}
     ],
-  "recipes": [
+    "recipes": [
     {
-      "input": "bauxite/2",
-      "output": {
-        "item": "aluminum/2",
-        "liquid": "mud/4.5"
-      },
+      "input": [{"item": "bauxite", "amount": 2}],
+      "output": {"item": "aluminum", "amount": 2, "liquid": "mud", "liquidAmount": 4.5},
       "craftTime": 75
     },
     {
-      "input":[ 
-        {"liquid": "mud", "amount": 9}
-      ],
+      "input": [{"liquid": "mud", "amount": 9}],
       "power": 3.25,
-      "output": {
-        "item": [
-          "ashstone/2","bismuth/1"
-        ]
-      },
+      "output": {"item": [{"item": "ashstone", "amount": 2}, {"item": "bismuth", "amount": 1}]},
       "craftTime": 100
     }
   ]
