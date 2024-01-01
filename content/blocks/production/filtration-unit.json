@@ -28,10 +28,8 @@
     },
     {
       "input":{
-        "fluids":[
-          "mud/9"
-        ],
-        "power": 3.25,
+        "fluids": "mud/9",
+        "power": 3.25
       },
       "output": {
         "item": [
