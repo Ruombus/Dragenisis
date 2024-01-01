@@ -13,8 +13,8 @@
   "size": 2,
   "breakable": "true",
   "requirements": [
-    "bismuth/65",
-    "ashstone/35"
+    {"item": "bismuth", "amount": 65},
+    {"item": "ashstone", "amount": 35}
     ],
     "recipes": [
     {
