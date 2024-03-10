@@ -2,11 +2,9 @@
   "type": "Duct",
   "name": "DeepSea Duct",
   "requirements": [
-  {"item": "bismuth", "amount": 1}
+    {"item": "bismuth", "amount": 1}
   ],
   "category": "distribution",
   "speed": 7.5,
-  "acceptsItems": true,
   "placeableLiquid": true,
-  "squareSprite": false
 }
