@@ -2,7 +2,7 @@
   "type": "Duct",
   "name": "DeepSea Duct",
   "requirements": [
-  { "item": "bismuth", "amount": 80 }
+  {"item": "bismuth", "amount": 1}
   ],
   "category": "distribution",
   "speed": 7.5,
