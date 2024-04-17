@@ -1,2 +1,2 @@
-# Deep-Seadustry
-An basic, simple mod for Mindustry.
+# Dragenesis
+A mod I'll be infrequently be working on.
