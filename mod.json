@@ -1,9 +1,9 @@
 {
-  "displayName": "Deep Seadustry",
-  "name": "deep-seadustry",
-  "author": "Cyro",
+  "displayName": "Dragenisis",
+  "name": "dragenisis",
+  "author": "Cyro/Ruombus",
   "version": 1.1.0
-  "description": "A simple mod. That will probably break around every corner",
+  "description": "A simple mod. That will probably break around every corner. It'll be worked on infrequently, probably.",
   "minGameVersion":136,
   "dependencies": ["multi-crafter"]
 }
