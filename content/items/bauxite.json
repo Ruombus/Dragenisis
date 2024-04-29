@@ -1,6 +1,7 @@
 {
-    	"type": "material",
+  "type": "material",
 	"name": "Bauxite",
 	"description": "A crystalline mix of bauxite and ashstone, fused through heat and friction.",
-	"color": "B95946"
+	"color": "B95946",
+	"hiddenOnPlanets": ["serpulo", "erekir"]
 }
