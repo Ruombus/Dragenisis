@@ -1,11 +1,12 @@
 {
   "name": "Biofuel Garden",
   "description": "While stuck under this seemingly endless ocean, maybe it wouldn't be too bad to start a farm...",
+  "size": 3,
   "requirements": [
     {"item": "bismuth", "amount": 18},
     {"item": "ashstone", "amount": 24}
   ],
-  "size": 3
+  
   "consumes": [
     {"liquid": "mud", "amount": 2},
     {"item": "ashstone", "amount": 1}
