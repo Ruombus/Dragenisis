@@ -3,6 +3,7 @@
 	"name": "Ashstone",
 	"description": "A common, but sturdy resource.",
 	"hardness": 1,
-	"cost": 2.0,
-	"color": "8475CA"
+	"cost": 1.2,
+	"color": "8475CA",
+	"hiddenOnPlanets": ["serpulo", "erekir"]
 }
