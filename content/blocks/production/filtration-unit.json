@@ -19,22 +19,22 @@
     "recipes": [
     {
       "input":{
-        "item": "deep-seadustry-bauxite/2"
+        "item": "dragenisis-bauxite/2"
       },
       "output":{
-        "item": "deep-seadustry-aluminum/2", "fluids": "deep-seadustry-mud/4.5"
+        "item": "dragenisis-aluminum/2", "fluids": "dragenisis-mud/4.5"
       },
       "craftTime": 75
     },
     {
       "input":{
-        "fluids": "deep-seadustry-mud/9",
+        "fluids": "dragenisis-mud/9",
         "power": 3.25
       },
       "output": {
         "items": [
-          "deep-seadustry-ashstone/2", 
-          "deep-seadustry-bismuth/1"
+          "dragenisis-ashstone/2", 
+          "deagenisis-bismuth/1"
         ]
       },
       "craftTime": 100
