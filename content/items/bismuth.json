@@ -4,5 +4,6 @@
 	"description": "A common, but sturdy resource.",
 	"hardness": 1,
 	"cost": 2.0,
-	"color": "dcb5b4"
+	"color": "dcb5b4",
+	"hiddenOnPlanets": ["serpulo", "erekir"]
 }
