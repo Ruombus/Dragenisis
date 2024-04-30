@@ -5,5 +5,5 @@
   "requirements": [
     { "item": "ashstone", "amount": 1 }
   ],
-  "squareSprite": false
+  "type": "conduit"
 }
