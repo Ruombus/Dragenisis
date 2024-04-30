@@ -6,5 +6,6 @@
   "category": "production",
   "reqirements": [
     {"item": "bismuth", "amount": 18}
-  ]
+  ],
+  "tier": 2
 }
