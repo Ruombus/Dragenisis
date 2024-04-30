@@ -1,7 +1,7 @@
 {
   "category": "distribution",
   "type": "Duct",
-  "name": "DeepSea Duct",
+  "name": "Crystalline Duct",
   "requirements": [
     {"item": "bismuth", "amount": 1}
   ],
