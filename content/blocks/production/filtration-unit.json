@@ -5,11 +5,11 @@
   "hasLiquids": true,
   "hasPower": true,
   "itemCapacity": 20,
-  "liquidCapacity": 200,
+  "liquidCapacity": 30,
   "type": "multicraft.MultiCrafter",
   "craftEffect": "smeltsmoke",
   "category": "crafting",
-  "menu": "Transform",
+  "menu": "transform",
   "size": 2,
   "requirements": [
     {"item": "bismuth", "amount": 65},
@@ -22,19 +22,18 @@
       },
       "output":{
         "item": "dragenisis-aluminum/2",
-        "fluid": "dragenisis-mud/4.5"
+        "fluid": "dragenisis-mud/0.45"
       },
       "craftTime": 75
     },
     {
       "input":{
-        "fluids": "dragenisis-mud/9",
-        "power": 3.25
+        "fluids": "dragenisis-mud/0.09",
+        "power": 0.2
       },
       "output": {
         "items": [
-          "dragenisis-ashstone/2", 
-          "dragenisis-bismuth/1"
+          "dragenisis-ashstone/2", "dragenisis-bismuth/1"
         ]
       },
       "craftTime": 100
