@@ -1,0 +1,7 @@
+{
+  "name": "Benthic Router",
+  "category": "liquid",
+  "requirements":[
+    {"item": "ashstone", "amount": 2}
+  ]
+}
