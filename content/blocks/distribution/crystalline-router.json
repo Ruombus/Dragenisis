@@ -1,0 +1,7 @@
+{
+  "name": "Crystalline Router",
+  "category": "distribution",
+  "requirements":[
+    {"item": "bismuth", "amount": 2}
+  ]
+}
