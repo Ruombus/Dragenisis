@@ -1,0 +1,7 @@
+{
+  "name": "Crystalline Junction",
+  "category": "distribution",
+  "reqirements":[
+    {"item":"bismuth", "amount": 2}
+  ]
+}
