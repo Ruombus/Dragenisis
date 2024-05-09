@@ -1,6 +1,7 @@
 {
   "type": "Conduit",
   "name": "Benthic Conduit",
+  "category": "liquid",
   "leaks": false,
   "requirements": [
     { "item": "ashstone", "amount": 1 }
