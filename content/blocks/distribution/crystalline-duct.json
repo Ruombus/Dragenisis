@@ -7,5 +7,6 @@
   ],
   "speed": 7.5,
   "placeableLiquid": true,
-  "junctionReplacement": "crystalline-junction"
+  "junctionReplacement": "crystalline-junction",
+  "bridgeReplacement": "crystalline-bridge"
 }
