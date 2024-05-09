@@ -5,5 +5,6 @@
   "leaks": false,
   "requirements": [
     { "item": "ashstone", "amount": 1 }
-  ]
+  ],
+  "junctionReplacement": "benthic-junction"
 }
