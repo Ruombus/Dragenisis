@@ -4,7 +4,8 @@
   "category": "liquid",
   "leaks": false,
   "requirements": [
-    { "item": "ashstone", "amount": 1 }
+    {"item": "ashstone", "amount": 1}
   ],
-  "junctionReplacement": "benthic-junction"
+  "junctionReplacement": "benthic-junction",
+  "bridgeReplacement": "benthic-bridge"
 }
