@@ -17,26 +17,31 @@
     ],
     "recipes": [
     {
-      "input":{
-        "item": "dragenisis-bauxite/2"
+      "input": "dragenisis-mud/0.9",
+      "output": {
+        "items": [
+          "dragenisis-bismuth/1",
+          "dragenisis-ashstone/2"
+        ],
       },
-      "output":{
-        "item": "dragenisis-aluminum/2",
-        "fluid": "dragenisis-mud/0.45"
-      },
-      "craftTime": 75
+      "craftTime": 7.5
     },
     {
       "input":{
-        "fluids": "dragenisis-mud/0.09",
-        "power": 0.2
+        "items":[
+          "dragenisis-bauxite/2"
+        ],
+        "power": 0.95
       },
       "output": {
-        "items": [
-          "dragenisis-ashstone/2", "dragenisis-bismuth/1"
-        ]
+        "fluids": [
+          "dragenisis-mud/0.85"
+        ],
+        "items":[
+          "dragenisis-aluminum/3"
+        ],
       },
-      "craftTime": 100
+      "craftTime": 7.5
     }
   ]
 }
