@@ -1,0 +1,15 @@
+{
+  "category": "liquid",
+  "name": "Benthic Bridge",
+  "requirements": [
+    {"item": "bismuth", "amount": 6},
+    {"item": "ashstone", "amount": 12}
+  ],
+  "range": 7,
+  "arrowSpacing": 2,
+  "bufferedCapacity": 15,
+  "fadeIn": true,
+  "moveArrows": true,
+  "speed": 22.5,
+  "pulse": true
+}
