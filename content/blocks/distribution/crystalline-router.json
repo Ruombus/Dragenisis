@@ -1,7 +1,9 @@
 {
   "name": "Crystalline Router",
   "category": "distribution",
+  "type": "Router",
   "requirements":[
     {"item": "bismuth", "amount": 2}
-  ]
+  ],
+  "speed": 5.6
 }
