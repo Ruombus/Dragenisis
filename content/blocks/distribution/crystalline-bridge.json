@@ -1,5 +1,6 @@
 {
   "category": "distribution",
+  "type":"DuctBridge",
   "name": "Crystalline Bridge",
   "requirements": [
     {"item": "bismuth", "amount": 12},
