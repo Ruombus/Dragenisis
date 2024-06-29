@@ -3,16 +3,16 @@
   "description": "While stuck under this seemingly endless ocean, maybe it wouldn't be too bad to start a farm...",
   "size": 3,
   "requirements": [
-    {"item": "bismuth", "amount": 18},
-    {"item": "ashstone", "amount": 24}
+    {"item": "dragenisis-bismuth", "amount": 18},
+    {"item": "dragenisis-ashstone", "amount": 24}
   ],
   
   "consumes": [
-    {"liquid": "mud", "amount": 2},
-    {"item": "ashstone", "amount": 1}
+    {"liquid": "dragenisis-mud", "amount": 2},
+    {"item": "dragenisis-ashstone", "amount": 1}
   ],
   "outputItem" :[
-    {"item": "biofuel", "amount": 4}
+    {"item": "dragenisis-biofuel", "amount": 4}
   ],
   "craftTime": 75,
   "category": "crafting"
