@@ -1,7 +1,7 @@
 {
   "name": "Crystalline Router",
   "category": "distribution",
-  "type": "Router",
+  "type": "DuctRouter",
   "requirements":[
     {"item": "bismuth", "amount": 2}
   ],
