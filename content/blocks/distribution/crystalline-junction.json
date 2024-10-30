@@ -1,7 +1,10 @@
 {
   "name": "Crystalline Junction",
   "category": "distribution",
+  "type": "Junction",
   "reqirements":[
     {"item":"bismuth", "amount": 2}
-  ]
+  ],
+  "speed": 7.5,
+  "capacity": 4
 }
