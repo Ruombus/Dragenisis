@@ -6,6 +6,7 @@
   "requirements": [
     {"item": "ashstone", "amount": 1}
   ],
+  "speed": 22.5,
   "junctionReplacement": "benthic-junction",
   "bridgeReplacement": "benthic-bridge"
 }
