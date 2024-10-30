@@ -1,7 +1,7 @@
 {
   "type": "Drill",
   "name": "Mineral Extractor",
-  "description": "A shabby drill, yet most useful in starting the mining operation. You didn't think you were going to be using that on board laser forever, right?"
+  "description": "A shabby drill, yet most useful in starting the mining operation. You didn't think you were going to be using that shabby laser forever, right?"
   "size": 2,
   "category": "production",
   "reqirements": [
