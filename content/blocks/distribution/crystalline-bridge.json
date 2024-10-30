@@ -12,5 +12,6 @@
   "fadeIn": true,
   "moveArrows": true,
   "speed": 22.5,
-  "pulse": true
+  "pulse": true,
+  "transportTime": 4
 }
