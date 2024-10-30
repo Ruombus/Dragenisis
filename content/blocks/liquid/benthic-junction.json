@@ -1,7 +1,9 @@
 {
   "name": "Benthic Junction",
-  "category": "liquid",
+  "category": "LiquidJunction",
   "requirements":[
     {"item": "ashstone", "amount": 2}
-  ]
+  ],
+  "liquid Capacity": 8,
+  "speed": 13.2
 }
