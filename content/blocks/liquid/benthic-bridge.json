@@ -1,5 +1,5 @@
 {
-  "category": "liquid",
+  "category": "LiquidBridge",
   "name": "Benthic Bridge",
   "requirements": [
     {"item": "bismuth", "amount": 6},
