@@ -7,5 +7,6 @@
   "reqirements": [
     {"item": "bismuth", "amount": 18}
   ],
-  "tier": 2
+  "tier": 2,
+  "drillTime": 270.0 #Remember 60t= 1s
 }
