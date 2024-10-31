@@ -4,5 +4,6 @@
 	"description": "Under certain circumstances, Ashstone can be quite combustive...",
 	"attributes": {
 		"item":"ashstone","amount": 1
-	}
+	},
+	"variants": 4
 }
