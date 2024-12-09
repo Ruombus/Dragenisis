@@ -1,6 +1,7 @@
 {
+  "type": "LiquidJunction",
   "name": "Benthic Junction",
-  "category": "LiquidJunction",
+  "category": "liquid",
   "requirements":[
     {"item": "ashstone", "amount": 2}
   ],
