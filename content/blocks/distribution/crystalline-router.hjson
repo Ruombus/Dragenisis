@@ -1,0 +1,13 @@
+{
+  name: Crystalline Router
+  category: distribution
+  type: DuctRouter
+  requirements:
+  [
+    {
+      item: bismuth
+      amount: 2
+    }
+  ]
+  speed: 9
+}
