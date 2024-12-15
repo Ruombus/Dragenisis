@@ -1,0 +1,7 @@
+{
+  name: Bismuth
+  type: OverlayFloor
+  itemDrop: bismuth
+  variants: 3
+  wallOre: false
+}
