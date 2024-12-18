@@ -1,0 +1,6 @@
+name: Red Mud
+description: The byprocess of crudely processing Bauxite into Alumin(i)um. Still holds some useful minerals.
+temperature: 0.5
+viscosity: 0.9
+coolant: false
+color: 975348
